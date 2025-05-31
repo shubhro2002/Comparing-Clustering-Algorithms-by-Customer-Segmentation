@@ -64,6 +64,7 @@ customer-segmentation
 │   ├── model_comparison.ipynb
 
 │
+
 ├── processed
 
 │   ├── birch.csv                          # dataset containing cluster labels by BIRCH Algorithm
