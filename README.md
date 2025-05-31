@@ -105,9 +105,6 @@ Insights are used to label each cluster with customer personas, like:
 
 Clustering results are visualized using 3D PCA plots to interpret how customer segments are distributed in reduced dimensions
 
-## 📜 License
-MIT License. Feel free to use or adapt this work for personal or academic projects.
-
 ## 🧠 Future Enhancements
 - Implement CURE hierarchical clustering
 - Add cluster evaluation metrics (Silhouette, Davies-Bouldin)
