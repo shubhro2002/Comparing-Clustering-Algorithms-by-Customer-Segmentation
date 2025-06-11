@@ -114,7 +114,7 @@ Clustering results are visualized using 3D PCA plots to interpret how customer s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shubhro2002/Market-Basket-Analysis.git
+   git clone [https://github.com/shubhro2002/Comparing-Clustering-Algorithms-by-Customer-Segmentation.git
 
 2. Install required dependencies:
 
